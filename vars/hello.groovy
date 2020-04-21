@@ -1,3 +1,3 @@
-def openCover(message) {
+def call(message) {
     echo "Message: ${message}"
 }
